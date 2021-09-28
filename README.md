@@ -1,2 +1,5 @@
 # NeonDistrict-Delivery
-Neon District auto delivery
+
+## Requirements
+* `https://pypi.org/project/requests/`
+
